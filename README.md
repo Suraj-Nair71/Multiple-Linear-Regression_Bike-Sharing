@@ -36,5 +36,3 @@ Multi Linear Regression Model For A bike-sharing system
 - Statsmodels version: 0.14.0
 - Scikit-learn version: 1.2.2
 
-## Contact
-Created by [@shubhankit92] - feel free to contact me!
